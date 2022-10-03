@@ -213,7 +213,7 @@ function OurTeam() {
                     Sahil Arora
                   </div>
                   <p className="text-gray-800 text-sm text-center">
-                    Backend Developer
+                    Full Stack Developer
                   </p>
                   {/* <p className="text-center text-gray-600 text-base pt-3 font-normal">
                     Our services encompass the assessment and repair of property
